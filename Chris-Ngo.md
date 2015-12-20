@@ -1,3 +1,3 @@
-Create bios for this project
+Create bios for this project.
 
-BTW you should add your favorite color
+Your favorite color.
